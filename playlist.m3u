@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0, group-title="Tamil", Canada EETTV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Eet TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:0, group-title="Tamil", Canada Tamils
+http://live.streamjo.com:1935/cctv/live/playlist.m3u8
+#EXTINF:0, group-title="Tamil", Engada Tv
+http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
+#EXTINF:0, group-title="Tamil", Santhora Tv
+rtmp://rtmp.santhoratv.zecast.net/santhoratv/santhoratv
+#EXTINF:0, group-title="Tamil", Meenakshi TV
+http://150.242.21.2/meenakshi.m3u8?bandwidth=956&shift=60&token=72033d762eb4ae7976fb
+3cc8022791e4&user=460&e=1530340270&os=android&rand=2013678688
+#EXTINF:0, group-title="Tamil", Dheeran TV
+http://cdn.asianetmobiletvplus.online/channels/dheerantv_hjykdbbkxbzqjhwiilxdziveskvmspkt/ind
+ex.m3u8
+#EXTINF:0, group-title="Tamil", Sivan TV
+https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
+#EXTINF:0, group-title="Tamil", Sivam TV
+http://209.58.178.208/sivamtvhls/sivamtv.m3u8
+#EXTINF:0, group-title="Tamil", SKTAT TV
+http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
+#EXTINF:0, group-title="Tamil", Sri Krishna TV
+http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+#EXTINF:0, group-title="Tamil", Agam TV
+http://209.58.160.206/agamtvhls/live.m3u8
+#EXTINF:0, group-title="Tamil", Vasantham Tv
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil", Vasantham Singapore
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/04.m3u8
+#EXTINF:0,group-title="Tamil",VELICHAM TV
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+#EXTINF:0,group-title="Tamil",SANGAMAM TV
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:0,group-title="Tamil",MGR TV HD
+http://livematrix.in:1935/live/mgrtv/index.m3u8
+#EXTINF:0,group-title="Tamil",AKARAM MIX TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:0,group-title="Tamil",AKARAM Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:0,group-title="Tamil",AKARAM KIDZ TV
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
