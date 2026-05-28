@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SnapStream | Live TV</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+    <div class="app-container">
+        <header class="glass-panel">
+            <h1>SnapStream <span>Live</span></h1>
+        </header>
+
+        <main>
+            <div class="player-wrapper">
+                <div class="video-container glass-panel">
+                    <video id="videoPlayer" controls autoplay></video>
+                </div>
+                <h2 id="nowPlaying" class="glass-panel">Select a channel to start watching</h2>
+            </div>
+
+            <div class="content-section">
+                <aside class="categories glass-panel" id="categoryList">
+                    </aside>
+                
+                <section class="channels glass-panel" id="channelList">
+                    </section>
+            </div>
+        </main>
+
+        <footer>
+            <p>Made by OKSNAPPY - YT</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
